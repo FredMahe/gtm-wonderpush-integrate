@@ -4,7 +4,7 @@ Web push notification delivery with the [WonderPush](https://www.wonderpush.com)
 
 ## Installation
 
-Follow the [**quickstart guide for Google Tag Manager**](https://docs.wonderpush.com/docs/web-push-notifications-google-tag-manager).
+Follow the the quickstart guide to integrate [**web push notifications with Google Tag Manager**](https://docs.wonderpush.com/docs/web-push-notifications-google-tag-manager).
 
 ## Change log and releases
 
